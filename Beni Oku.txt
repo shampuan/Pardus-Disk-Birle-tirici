@@ -1,0 +1,9 @@
+
+
+#Bu yazılım, "Pardus Disk Birleştirici" ya da diğer adıyla "Pardus Defrag", HDD'lerin performansını arttırmak için "Defragging" işlemi yapar. Diskleri birleştirmeden evvel onları analiz eder ve defrag gerekip gerekmediğini size söyler. İşlem, linux sistemlerde %30'lara varan performans iyileştirmesini sağlayabilir.
+
+#BU YAZILIM HİÇBİR GARANTİ GETİRMEZ! Bilgisayarınızda oluşabilecek hiçbir sorundan programın yazarı sorumlu tutulamaz. 
+
+#Bu yazılım, GNU GPL v3 lisansı altındadır. Yazılımın dağıtılması, kopyalanması, satışa çıkarılması gibi birçok faaliyet bu lisans koşullarına bağlıdır. 
+
+#Telif hakkı: @Zeus, forum.pardus.org.tr üyesi.
