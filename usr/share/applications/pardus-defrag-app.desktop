@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Pardus Defrag App
+Exec=pardus-defrag-app
+Icon=fragmenter
+Type=Application
+Categories=Utility;

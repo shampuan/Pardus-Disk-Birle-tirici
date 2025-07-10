@@ -1,0 +1,8 @@
+Package: pardus-defrag-app
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: zeus <https://github.com/shampuan/>
+Description: Defrag uygulaması - basit disk birleştirici
+
